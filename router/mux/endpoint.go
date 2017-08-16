@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/core"
-	"github.com/devopsfaith/krakend/proxy"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/core"
+	"github.com/altran-nl/krakend/proxy"
 )
 
 // ErrInternalError is the error returned by the router when something went wrong

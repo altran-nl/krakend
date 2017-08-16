@@ -11,9 +11,9 @@ import (
 
 	"github.com/urfave/negroni"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/logging/gologging"
-	"github.com/devopsfaith/krakend/proxy"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/logging/gologging"
+	"github.com/altran-nl/krakend/proxy"
 )
 
 func TestDefaultFactory_ok(t *testing.T) {

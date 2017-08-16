@@ -7,13 +7,13 @@ import (
 
 	"gopkg.in/unrolled/secure.v1"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/config/viper"
-	"github.com/devopsfaith/krakend/logging"
-	"github.com/devopsfaith/krakend/logging/gologging"
-	"github.com/devopsfaith/krakend/proxy"
-	"github.com/devopsfaith/krakend/router/gorilla"
-	"github.com/devopsfaith/krakend/router/mux"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/config/viper"
+	"github.com/altran-nl/krakend/logging"
+	"github.com/altran-nl/krakend/logging/gologging"
+	"github.com/altran-nl/krakend/proxy"
+	"github.com/altran-nl/krakend/router/gorilla"
+	"github.com/altran-nl/krakend/router/mux"
 )
 
 func main() {

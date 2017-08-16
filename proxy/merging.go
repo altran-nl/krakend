@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/altran-nl/krakend/config"
 )
 
 // NewMergeDataMiddleware creates proxy middleware for merging responses from several backends

@@ -5,7 +5,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/altran-nl/krakend/config"
 )
 
 // Response is the entity returned by the proxy

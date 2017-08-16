@@ -15,12 +15,12 @@ import (
 	"github.com/gin-gonic/gin"
 	"gopkg.in/gin-contrib/cors.v1"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/config/viper"
-	"github.com/devopsfaith/krakend/logging"
-	"github.com/devopsfaith/krakend/logging/gologging"
-	"github.com/devopsfaith/krakend/proxy"
-	krakendgin "github.com/devopsfaith/krakend/router/gin"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/config/viper"
+	"github.com/altran-nl/krakend/logging"
+	"github.com/altran-nl/krakend/logging/gologging"
+	"github.com/altran-nl/krakend/proxy"
+	krakendgin "github.com/altran-nl/krakend/router/gin"
 )
 
 func main() {

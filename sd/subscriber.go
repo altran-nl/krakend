@@ -2,7 +2,7 @@
 package sd
 
 import (
-	"github.com/devopsfaith/krakend/config"
+	"github.com/altran-nl/krakend/config"
 )
 
 // Subscriber keeps the set of backend hosts up to date

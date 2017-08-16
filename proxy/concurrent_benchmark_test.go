@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/altran-nl/krakend/config"
 )
 
 func BenchmarkNewConcurrentMiddleware_singleNext(b *testing.B) {

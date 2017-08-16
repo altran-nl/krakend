@@ -10,8 +10,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/proxy"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/proxy"
 )
 
 func TestEndpointHandler_ok(t *testing.T) {

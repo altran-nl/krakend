@@ -6,8 +6,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/sd/dnssrv"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/sd/dnssrv"
 )
 
 func TestNewLoadBalancedMiddleware_ok(t *testing.T) {

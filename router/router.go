@@ -4,7 +4,7 @@ package router
 import (
 	"context"
 
-	"github.com/devopsfaith/krakend/config"
+	"github.com/altran-nl/krakend/config"
 )
 
 // Router sets up the public layer exposed to the users

@@ -5,8 +5,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/sd"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/sd"
 )
 
 // NewRoundRobinLoadBalancedMiddleware creates proxy middleware adding a round robin balancer

@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/devopsfaith/krakend/config"
-	"github.com/devopsfaith/krakend/sd"
+	"github.com/altran-nl/krakend/config"
+	"github.com/altran-nl/krakend/sd"
 )
 
 func TestSubscriberFactory_ko0Hosts(t *testing.T) {

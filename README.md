@@ -66,10 +66,10 @@ For the lazy, a ready to use example:
         "log"
         "os"
 
-        "github.com/devopsfaith/krakend/config/viper"
-        "github.com/devopsfaith/krakend/logging/gologging"
-        "github.com/devopsfaith/krakend/proxy"
-        "github.com/devopsfaith/krakend/router/gin"
+        "github.com/altran-nl/krakend/config/viper"
+        "github.com/altran-nl/krakend/logging/gologging"
+        "github.com/altran-nl/krakend/proxy"
+        "github.com/altran-nl/krakend/router/gin"
     )
 
     func main() {
