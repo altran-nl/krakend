@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/devopsfaith/krakend/encoding"
+	"github.com/altran-nl/krakend/encoding"
 )
 
 const (
