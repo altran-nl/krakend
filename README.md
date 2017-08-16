@@ -2,7 +2,10 @@
 
 # KrakenD
 
-[![Travis-CI](https://travis-ci.org/devopsfaith/krakend.svg?branch=master)](https://travis-ci.org/devopsfaith/krakend) [![Go Report Card](https://goreportcard.com/badge/github.com/devopsfaith/krakend)](https://goreportcard.com/report/github.com/devopsfaith/krakend) [![Coverage Status](https://coveralls.io/repos/github/devopsfaith/krakend/badge.svg?branch=master)](https://coveralls.io/github/devopsfaith/krakend?branch=master) [![GoDoc](https://godoc.org/github.com/devopsfaith/krakend?status.svg)](https://godoc.org/github.com/devopsfaith/krakend)
+[![Travis-CI](https://travis-ci.org/altran-nl/krakend.svg?branch=master)](https://travis-ci.org/altran-nl/krakend)
+[![Go Report Card](https://goreportcard.com/badge/github.com/altran-nl/krakend)](https://goreportcard.com/report/github.com/altran-nl/krakend) 
+[![Coverage Status](https://coveralls.io/repos/github/altran-nl/krakend/badge.svg?branch=master)](https://coveralls.io/github/altran-nl/krakend?branch=master) 
+[![GoDoc](https://godoc.org/github.com/altran-nl/krakend?status.svg)](https://godoc.org/github.com/altran-nl/krakend)
 
 Ultra performant API Gateway with middlewares
 
